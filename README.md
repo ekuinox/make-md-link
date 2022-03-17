@@ -4,8 +4,7 @@
 
 ## ビルド
 
-`npm run build` でビルドできる
+1. `npm run build`
+2. `./build_bookmarklet.sh`
 
-`dist/bookmarklet.js` に出力される
-
-`javascrript: ...` 形式にするのを組み込んでいないのでそこは各々やってください
+`dist/bookmarklet` に出力されるものをコピペで、ブラウザのブックマークに登録して終わり
